@@ -1,4 +1,4 @@
-## Hi there 👋
+[![My Codewars Badge](https://www.codewars.com/users/Jqdk/badges/small)](https://www.codewars.com/users/Jqdk/badges/small)
 
 <!--
 **jqxl/jqxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
