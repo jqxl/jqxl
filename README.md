@@ -1,16 +1,33 @@
 [![My Codewars Badge](https://www.codewars.com/users/Jqdk/badges/small)](https://www.codewars.com/users/Jqdk/badges/small)
 
-<!--
-**jqxl/jqxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## jqxl
 
-Here are some ideas to get you started:
+### Excel
+- PowerQuery, PowerPivot, SmartTables, index
+- Financial modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SQLite, PosgresSQL
+- **DDL**: CREATE, ALTER, INDEX, VIEW
+- **DML**: SELECT, JOIN, GROUP BY
+- **TCL**: BEGIN, COMMIT, ROLLBACK
+
+### PowerBI
+- PowerQuery, DAX
+
+### Python
+- Aiogram, aiohttp
+- aiopg, psycopg2
+- FastAPI, Pydentic
+- Pandas, Jupyter Notebook
+- TypeHinting, DataValidation
+
+### Linux
+- SSH, SFTP
+- Bash scripts
+- Docker
+
+### Other
+- XML, JSON
+- Git
+- Crypto Pro, Certification
+- markirovka crpt
