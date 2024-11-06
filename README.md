@@ -19,6 +19,10 @@ My stack:
 - Aiogram, aiohttp, aiopg, psycopg2, FastAPI, Pydentic, Pandas, Jupyter Notebook, TypeHinting, DataValidation
 </details>
 
+<details><summary>Scala</summary>
+- Technical comprehension level
+</details>
+
 <details><summary>Linux</summary>
 SSH, SFTP, Bash scripts, Docker
 </details>
